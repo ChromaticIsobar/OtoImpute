@@ -1,5 +1,5 @@
 numpy
-scikit-learn<1.5
+scikit-learn
 matplotlib
 seaborn
 ipython
@@ -9,4 +9,5 @@ missingno
 i2bmi
 statsmodels
 openpyxl
-# pyearth
+yapf
+nbformat
