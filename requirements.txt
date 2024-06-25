@@ -1,0 +1,12 @@
+numpy
+scikit-learn<1.5
+matplotlib
+seaborn
+ipython
+ipykernel
+xgboost
+missingno
+i2bmi
+statsmodels
+openpyxl
+# pyearth
