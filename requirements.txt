@@ -11,3 +11,4 @@ statsmodels
 openpyxl
 yapf
 nbformat
+ipywidgets
