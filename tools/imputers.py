@@ -12,7 +12,8 @@ from sklearn.base import clone, BaseEstimator, TransformerMixin
 
 from sklearn.exceptions import ConvergenceWarning
 from sklearn.preprocessing import normalize
-from sklearn.utils import check_array, check_random_state, _safe_indexing, is_scalar_nan
+from sklearn.utils import check_array, check_random_state, _safe_indexing
+from sklearn.utils._missing import is_scalar_nan
 from sklearn.utils.validation import FLOAT_DTYPES, check_is_fitted
 from sklearn.utils._mask import _get_mask
 from sklearn.impute import _base
